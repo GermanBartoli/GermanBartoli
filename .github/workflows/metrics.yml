@@ -48,7 +48,7 @@ jobs:
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming, prose, data
           plugin_languages_colors: github
-          plugin_languages_ignored: Rich Text Format, JSON, XML, TEXT, INI, Ant Build System, Microsoft Visual Studio Solution, JAR Manifest
+          plugin_languages_ignored: Rich Text Format, JSON, XML, TEXT, INI, Ant Build System, Microsoft Visual Studio Solution, JAR Manifest, SVG
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
