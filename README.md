@@ -3,20 +3,18 @@
 <a
     href="https://github.com/bartoligerman497"
     target="_blank"
-    rel="noreferrer"
->
+    rel="noreferrer">
     <img
         src="https://github.com/bartoligerman497/bartoligerman497/blob/main/github-metrics.svg"
         width="800"
         height=""
         alt="Metrics"
-      />
+    />
 </a>
 <a
     href="https://wakatime.com/@bartoligerman497"
     target="_blank"
-    rel="noreferrer"
->
+    rel="noreferrer">
     <img
         src="https://github-readme-stats.vercel.app/api/wakatime?username=bartoligerman497&hide=other&hide_border=true&title_color=0366d6&text_color=777777&icon_color=959da5&bg_color=ffffff00"
         width="800"
