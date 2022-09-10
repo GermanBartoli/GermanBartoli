@@ -46,7 +46,7 @@ jobs:
           # plugin_languages_indepth: yes
           plugin_languages_analysis_timeout: 30          
           commits_authoring: German Bartoli, bartoligerman497, bartoligerman497@users.noreply.github.com
-          plugin_languages_details: bytes-size, percentage, lines
+          plugin_languages_details: lines, bytes-size, percentage
           plugin_languages_categories: markup, programming, prose, data
           plugin_languages_colors: github
           plugin_languages_ignored: Rich Text Format, JSON, XML, TEXT, INI, Ant Build System, Microsoft Visual Studio Solution, JAR Manifest, SVG
