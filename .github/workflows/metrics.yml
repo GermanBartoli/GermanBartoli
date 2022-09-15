@@ -43,7 +43,7 @@ jobs:
           
           # Languages
           plugin_languages: yes
-          # plugin_languages_indepth: yes
+          plugin_languages_indepth: yes
           plugin_languages_analysis_timeout: 30          
           commits_authoring: German Bartoli, bartoligerman497, bartoligerman497@users.noreply.github.com
           plugin_languages_details: lines, bytes-size, percentage
