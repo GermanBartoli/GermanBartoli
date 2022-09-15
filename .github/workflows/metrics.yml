@@ -27,13 +27,13 @@ jobs:
           #  - repo          (optional, if you want to include private repositories)
           
           token: ${{ secrets.METRICS_TOKEN }}
-
+          
           # Options
           user: bartoligerman497
           config_timezone: America/Buenos_Aires
           template: classic
           # committer_message: "chore: update metrics"
-
+          
           # Stats
           # base: ""
           base: header, metadata
