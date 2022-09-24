@@ -22,3 +22,6 @@
         alt="Metrics"
     />
  </a>
+ 
+ [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bartoligerman497&count_private=true&show_icons=true&hide_border=true&title_color=0366d6&text_color=777777&icon_color=959da5&bg_color=ffffff00)](https://github.com/anuraghazra/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bartoligerman497&layout=compact&langs_count=10&hide=Rich+Text+Format&hide_border=true&title_color=0366d6&text_color=777777&icon_color=959da5&bg_color=ffffff00)](https://github.com/anuraghazra/github-readme-stats)
+
