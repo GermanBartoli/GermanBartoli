@@ -24,26 +24,26 @@
  </a>
 
 <a
-   href="https://dbd-stats.net/profile/76561198096304489"
+   href=""
    target="_blank"
    rel="noreferrer">
     <img
         src="https://github-readme-stats.vercel.app/api?username=bartoligerman497&count_private=true&show_icons=true&hide_border=true&title_color=0366d6&text_color=777777&icon_color=959da5&bg_color=ffffff00"
         width="100%"
         height=""
-        alt="DBD"
+        alt="ProfilePoints"
     />
 </a>
 
 <a
-   href="https://dbd-stats.net/profile/76561198096304489"
+   href=""
    target="_blank"
    rel="noreferrer">
     <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=bartoligerman497&layout=compact&langs_count=10&hide=Rich+Text+Format&hide_border=true&title_color=0366d6&text_color=777777&icon_color=959da5&bg_color=ffffff00"
         width="70%"
         height=""
-        alt="DBD"
+        alt="Lenguages"
     />
 </a>
 
