@@ -1,4 +1,4 @@
-[![WakaTime](https://wakatime.com/badge/user/007a853f-0752-4493-a031-cf70b329845c.svg)](https://wakatime.com/@007a853f-0752-4493-a031-cf70b329845c)
+[![WakaTime](https://wakatime.com/badge/user/007a853f-0752-4493-a031-cf70b329845c.svg)](https://wakatime.com/@007a853f-0752-4493-a031-cf70b329845c) [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC58PRBherNVyIM2AMygoXWQ?label=Channel&style=social)](https://www.youtube.com/@BartoliGerman497)
 
 <a
     href="https://github.com/bartoligerman497"
@@ -24,7 +24,7 @@
  </a>
 
 <a
-   href=""
+   href="https://github.com/bartoligerman497"
    target="_blank"
    rel="noreferrer">
     <img
@@ -36,7 +36,7 @@
 </a>
 
 <a
-   href=""
+   href="https://github.com/bartoligerman497"
    target="_blank"
    rel="noreferrer">
     <img
