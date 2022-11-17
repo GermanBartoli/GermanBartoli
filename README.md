@@ -1,5 +1,5 @@
 [![My Page - Online](https://img.shields.io/badge/Website-Online-2ea44f?logo=GitHub)](https://bartoligerman497.github.io/Bootstrap4-Course-Platzi/)
-[![Youtube - Online](https://img.shields.io/badge/Youtube-Online-ff0303?logo=YouTube)](https://bartoligerman497.github.io/Bootstrap4-Course-Platzi/)
+[![Youtube - Online](https://img.shields.io/badge/Youtube-Online-ff0303?logo=YouTube)](https://www.youtube.com/@BartoliGerman497)
 [![WakaTime](https://wakatime.com/badge/user/007a853f-0752-4493-a031-cf70b329845c.svg)](https://wakatime.com/@007a853f-0752-4493-a031-cf70b329845c) 
 
 <!-- 
