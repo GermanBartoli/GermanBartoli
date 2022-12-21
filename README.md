@@ -1,7 +1,8 @@
 [![My Page - Online](https://img.shields.io/badge/Website-Online-2ea44f?logo=GitHub)](https://bartoligerman497.github.io/Portfolio/)
-[![Youtube - Online](https://img.shields.io/badge/Youtube-Online-2ea44f?logo=YouTube)](https://www.youtube.com/@BartoliGerman497)
-[![Steam - Online](https://img.shields.io/badge/Steam-Online-2ea44f?logo=Steam)](https://steamcommunity.com/id/KillerBiss/)
+[![LinkedIn - Online](https://img.shields.io/badge/LinkedIn-Online-2ea44f?logo=LinkedIn)](https://www.linkedin.com/in/bartoligerman497/)
 [![Platzi](https://img.shields.io/badge/Platzi-6.0K-2ea44f?logo=Platzi)](https://platzi.com/p/bartoligerman497/)
+[![Steam - Online](https://img.shields.io/badge/Steam-Online-2ea44f?logo=Steam)](https://steamcommunity.com/id/KillerBiss/)
+[![Youtube - Online](https://img.shields.io/badge/Youtube-Online-2ea44f?logo=YouTube)](https://www.youtube.com/@BartoliGerman497)
 [![WakaTime](https://wakatime.com/badge/user/007a853f-0752-4493-a031-cf70b329845c.svg)](https://wakatime.com/@007a853f-0752-4493-a031-cf70b329845c) 
 
 <!-- 
