@@ -5,7 +5,8 @@
 [![Youtube](https://img.shields.io/badge/Youtube-5b5b5b?logo=YouTube)](https://www.youtube.com/@BartoliGerman497)
 [![WakaTime](https://wakatime.com/badge/user/007a853f-0752-4493-a031-cf70b329845c.svg)](https://wakatime.com/@007a853f-0752-4493-a031-cf70b329845c)
 [![WakaTime2022](https://img.shields.io/badge/2022-5b5b5b?logo=WakaTime)](https://wakatime.com/a-look-back-at-2022/007a853f-0752-4493-a031-cf70b329845c/weohgreyyv)
-
+[![CV](https://img.shields.io/badge/CV-5b5b5b?logo=opencv)]()
+[![CV-LinkedIn](https://img.shields.io/badge/CV-5b5b5b?logo=opencv)]()
 
 <!-- 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC58PRBherNVyIM2AMygoXWQ?label=Channel&style=social)](https://www.youtube.com/@BartoliGerman497)
