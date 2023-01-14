@@ -8,6 +8,9 @@
 [![CV](https://img.shields.io/badge/CV-5b5b5b?logo=opencv)](https://drive.google.com/file/d/1-4qFJu_2-WOn8hmDspLy20f7YKz9_P5q/view)
 [![CV-LinkedIn](https://img.shields.io/badge/CV-5b5b5b?logo=opencv)](https://drive.google.com/file/d/1ioXbyqviQvLKctMfuoJZdH2HOAAFMhlG/view)
 [![LiChess](https://img.shields.io/badge/-5b5b5b?logo=lichess)](https://lichess.org/@/Marcoss13)
+[![Discord](https://img.shields.io/badge/-5b5b5b?logo=discord)](https://discords.com/bio/p/bartoligerman497)
+[![Spotify](https://img.shields.io/badge/-5b5b5b?logo=spotify)](https://open.spotify.com/user/n3uka3y540ej51v4l2wkhxgzn)
+
 
 <!-- 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC58PRBherNVyIM2AMygoXWQ?label=Channel&style=social)](https://www.youtube.com/@BartoliGerman497)
