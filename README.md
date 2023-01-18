@@ -2,12 +2,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5b5b5b?logo=LinkedIn)](https://www.linkedin.com/in/bartoligerman497/)
 [![Platzi](https://img.shields.io/badge/Platzi-6.3K-2ea44f?logo=Platzi)](https://platzi.com/p/bartoligerman497/)
 [![Steam - Online](https://img.shields.io/badge/Steam-Online-2ea44f?logo=Steam)](https://steamcommunity.com/id/KillerBiss/)
-[![Youtube](https://img.shields.io/badge/Youtube-5b5b5b?logo=YouTube)](https://www.youtube.com/@BartoliGerman497)
 [![WakaTime](https://wakatime.com/badge/user/007a853f-0752-4493-a031-cf70b329845c.svg)](https://wakatime.com/@007a853f-0752-4493-a031-cf70b329845c)
 [![WakaTime2022](https://img.shields.io/badge/2022-5b5b5b?logo=WakaTime)](https://wakatime.com/a-look-back-at-2022/007a853f-0752-4493-a031-cf70b329845c/weohgreyyv)
 [![CV](https://img.shields.io/badge/CV-5b5b5b?logo=opencv)](https://drive.google.com/file/d/1-4qFJu_2-WOn8hmDspLy20f7YKz9_P5q/view)
 [![CV-LinkedIn](https://img.shields.io/badge/CV-5b5b5b?logo=opencv)](https://drive.google.com/file/d/1ioXbyqviQvLKctMfuoJZdH2HOAAFMhlG/view)
 [![LiChess](https://img.shields.io/badge/-5b5b5b?logo=lichess)](https://lichess.org/@/Marcoss13)
+[![Youtube](https://img.shields.io/badge/-5b5b5b?logo=YouTube)](https://www.youtube.com/@BartoliGerman497)
 [![Discord](https://img.shields.io/badge/-5b5b5b?logo=discord)](https://discords.com/bio/p/bartoligerman497)
 [![Spotify](https://img.shields.io/badge/-5b5b5b?logo=spotify)](https://open.spotify.com/user/n3uka3y540ej51v4l2wkhxgzn)
 
