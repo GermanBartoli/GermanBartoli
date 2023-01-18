@@ -4,6 +4,7 @@
 [![Steam - Online](https://img.shields.io/badge/Steam-Online-2ea44f?logo=Steam)](https://steamcommunity.com/id/KillerBiss/)
 [![WakaTime](https://wakatime.com/badge/user/007a853f-0752-4493-a031-cf70b329845c.svg)](https://wakatime.com/@007a853f-0752-4493-a031-cf70b329845c)
 [![WakaTime2022](https://img.shields.io/badge/2022-5b5b5b?logo=WakaTime)](https://wakatime.com/a-look-back-at-2022/007a853f-0752-4493-a031-cf70b329845c/weohgreyyv)
+[![WakaTimeRank](https://img.shields.io/badge/Rank-5b5b5b?logo=WakaTime)](https://wakatime.com/leaders?username=@bartoligerman497)
 [![CV](https://img.shields.io/badge/CV-5b5b5b?logo=opencv)](https://drive.google.com/file/d/1-4qFJu_2-WOn8hmDspLy20f7YKz9_P5q/view)
 [![CV-LinkedIn](https://img.shields.io/badge/CV-5b5b5b?logo=opencv)](https://drive.google.com/file/d/1ioXbyqviQvLKctMfuoJZdH2HOAAFMhlG/view)
 [![LiChess](https://img.shields.io/badge/-5b5b5b?logo=lichess)](https://lichess.org/@/Marcoss13)
