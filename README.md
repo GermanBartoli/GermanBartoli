@@ -59,7 +59,7 @@
    target="_blank"
    rel="noreferrer">
     <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=bartoligerman497&layout=compact&langs_count=10&hide=Rich+Text+Format&hide_border=true&title_color=0366d6&text_color=777777&icon_color=959da5&bg_color=ffffff00"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=bartoligerman497&hide=Rich+Text+Format&hide_border=true&title_color=0366d6&text_color=777777&icon_color=959da5&bg_color=ffffff00"
         width="70%"
         height=""
         alt="Lenguages"
