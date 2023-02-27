@@ -1,3 +1,4 @@
+<!--
 [![Portfolio](https://img.shields.io/badge/Portfolio-5b5b5b?logo=GitHub)](https://bartoligerman497.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5b5b5b?logo=LinkedIn)](https://www.linkedin.com/in/bartoligerman497/)
 [![Platzi](https://img.shields.io/badge/Platzi-6.5K-2ea44f?logo=Platzi)](https://platzi.com/p/bartoligerman497/)
@@ -13,8 +14,7 @@
 [![YoutubeMusic](https://img.shields.io/badge/-5b5b5b?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAABK0lEQVR4nGNgoAX45GSm9cXZrPKzs9l8EAaxP7mYaxLU+M7FmP+Ls+myz85m/744m/1HxmAxJ7OlbzzM+HBrdjK7jK4RAzuZXsJqyBdn02XICr/GBP7/0VQJxl+jA9ANWozh589Izv5ekf//e2E6XMP3woz/38vzULyDEiZfnMyqkG2Gaf7RVodkSDqqS1xMK+AGfIaENERTU+X/Ly7mYDYI/Ll49v+3hDCw2I+GcoQrnEznIhlgOo8oAxorkLxhOodEL2Tg9sInF3NNlEAszwNrgCg0//+9CBSIuUjON/v7yc1YAzUancyWokRjdABSNPqjJSrTRRjp4I2HGR8okRBMSM6mF3GmRoghZkuwJmUns78gm3FqRklYLuaaX5xMy+GZycmsDMPP1AIAtB6Fna8KlaAAAAAASUVORK5CYII=)](https://music.youtube.com/channel/UC58PRBherNVyIM2AMygoXWQ)
 [![Spotify](https://img.shields.io/badge/-5b5b5b?logo=spotify)](https://open.spotify.com/user/n3uka3y540ej51v4l2wkhxgzn)
 [![Discord](https://img.shields.io/badge/-5b5b5b?logo=discord)](https://discords.com/bio/p/bartoligerman497)
-
-
+-->
 <!-- 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC58PRBherNVyIM2AMygoXWQ?label=Channel&style=social)](https://www.youtube.com/@BartoliGerman497)
 -->
