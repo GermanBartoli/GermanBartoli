@@ -9,7 +9,7 @@
             <section>
                 <h1 class="field">
                     <img class="avatar" src="data:image/png;base64,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" width="20" height="20" />
-                    <span>German Bartoli</span>
+                    <span>Marcoss13</span>
                 </h1>
                 <div class="row">
                     <section>
@@ -203,7 +203,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~9 coding hours recorded
+                            ~12 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -223,7 +223,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M6 2a.75.75 0 01.696.471L10 10.731l1.304-3.26A.75.75 0 0112 7h3.25a.75.75 0 010 1.5h-2.742l-1.812 4.528a.75.75 0 01-1.392 0L6 4.77 4.696 8.03A.75.75 0 014 8.5H.75a.75.75 0 010-1.5h2.742l1.812-4.529A.75.75 0 016 2z"/>
                             </svg>
-                            ~2 hours of coding per day
+                            ~3 hours of coding per day
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -245,17 +245,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Fidelitytools</span>
-                                <div class="bar" style="width: 71.776%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">90%</span>
+                                <div class="bar" style="width: 53.912000000000006%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">67%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">ComercioOnline</span>
-                                <div class="bar" style="width: 7.944%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">10%</span>
+                                <div class="bar" style="width: 25.872%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">32%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">ComerciosOnline</span>
-                                <div class="bar" style="width: 0.27999999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.21600000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -265,28 +265,28 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C#</span>
-                                <div class="bar" style="width: 52.144000000000005%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">65%</span>
+                                <div class="bar" style="width: 43.431999999999995%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">54%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Binary</span>
-                                <div class="bar" style="width: 19.712%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">25%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">ASP.NET</span>
-                                <div class="bar" style="width: 4.176%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">5%</span>
+                                <div class="bar" style="width: 24.016000000000002%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">30%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 3.2560000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">4%</span>
+                                <div class="bar" style="width: 7.208%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">9%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">ASP.NET</span>
+                                <div class="bar" style="width: 2.48%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">3%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSHTML</span>
-                                <div class="bar" style="width: 0.05600000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">0%</span>
+                                <div class="bar" style="width: 1.6159999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
                             </div>
                         </div>
                     </section>
@@ -297,12 +297,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Visual Studio</span>
-                                <div class="bar" style="width: 79.72%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 79.784%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">100%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">VS Code</span>
-                                <div class="bar" style="width: 0.27999999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.21600000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -321,7 +321,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Mar 2023, 21:56:34 (timezone America/Buenos_Aires) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 12 Mar 2023, 21:53:12 (timezone America/Buenos_Aires) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
