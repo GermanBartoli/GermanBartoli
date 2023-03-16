@@ -66,20 +66,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 89mb of code in 2217 edited files across 655 commits</small>
+                <small>estimation from 86.6mb of code in 2083 edited files across 637 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="143.75938982136265" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="143.75938982136265" y="0" width="118.840028684218" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="262.5994185055807" y="0" width="78.35826339780182" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="340.9576819033825" y="0" width="50.36638940955951" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="391.324071312942" y="0" width="42.18642611683848" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="433.51049742978046" y="0" width="24.275545994149553" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="457.78604342393004" y="0" width="1.767123555139019" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="459.55316697906903" y="0" width="0.4468330209309591" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="168.61473666240397" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="168.61473666240397" y="0" width="91.9060519424957" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="260.5207886048997" y="0" width="59.98262650046817" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="320.5034151053678" y="0" width="59.07450982841458" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="379.5779249337824" y="0" width="49.35265757810918" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="428.9305825118916" y="0" width="28.472677855866575" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="457.40326036775815" y="0" width="2.072651207479036" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="459.4759115752372" y="0" width="0.5240884247628059" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -93,20 +93,7 @@
                             <small>
                                 <div>22.7k lines</div>
                                 <div>704 kB</div>
-                                <div>31.25%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                C#
-                            </div>
-                            <small>
-                                <div>12.5k lines</div>
-                                <div>582 kB</div>
-                                <div>25.83%</div>
+                                <div>36.66%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -119,7 +106,20 @@
                             <small>
                                 <div>13.6k lines</div>
                                 <div>383 kB</div>
-                                <div>17.03%</div>
+                                <div>19.98%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                C#
+                            </div>
+                            <small>
+                                <div>7.87k lines</div>
+                                <div>250 kB</div>
+                                <div>13.04%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -132,7 +132,7 @@
                             <small>
                                 <div>3.73k lines</div>
                                 <div>246 kB</div>
-                                <div>10.95%</div>
+                                <div>12.84%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -143,9 +143,9 @@
                                 HTML
                             </div>
                             <small>
-                                <div>8.54k lines</div>
+                                <div>8.53k lines</div>
                                 <div>206 kB</div>
-                                <div>9.17%</div>
+                                <div>10.73%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -158,7 +158,7 @@
                             <small>
                                 <div>4.41k lines</div>
                                 <div>118 kB</div>
-                                <div>5.28%</div>
+                                <div>6.19%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -171,7 +171,7 @@
                             <small>
                                 <div>317 lines</div>
                                 <div>8.66 kB</div>
-                                <div>0.38%</div>
+                                <div>0.45%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -184,7 +184,7 @@
                             <small>
                                 <div>77 lines</div>
                                 <div>2.19 kB</div>
-                                <div>0.1%</div>
+                                <div>0.11%</div>
                             </small>
                         </div>
                     </section>
@@ -253,13 +253,13 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Fidelitytools</span>
-                                <div class="bar" style="width: 53.912000000000006%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">67%</span>
+                                <div class="bar" style="width: 46.736000000000004%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">58%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">ComercioOnline</span>
-                                <div class="bar" style="width: 25.872%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">32%</span>
+                                <div class="bar" style="width: 33.04%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">41%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">ComerciosOnline</span>
@@ -273,28 +273,28 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C#</span>
-                                <div class="bar" style="width: 43.431999999999995%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">54%</span>
+                                <div class="bar" style="width: 34.736000000000004%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">43%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Binary</span>
-                                <div class="bar" style="width: 24.016000000000002%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">30%</span>
+                                <div class="bar" style="width: 30.136000000000003%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">38%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 7.208%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">9%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">ASP.NET</span>
-                                <div class="bar" style="width: 2.48%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">3%</span>
+                                <div class="bar" style="width: 11.264000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">14%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSHTML</span>
-                                <div class="bar" style="width: 1.6159999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.6800000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">ASP.NET</span>
+                                <div class="bar" style="width: 1.072%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">1%</span>
                             </div>
                         </div>
                     </section>
@@ -329,7 +329,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Mar 2023, 21:54:26 (timezone America/Buenos_Aires) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 15 Mar 2023, 21:55:26 (timezone America/Buenos_Aires) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
