@@ -37,7 +37,7 @@
     target="_blank"
     rel="noreferrer">
     <img
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=bartoligerman497&langs_count=5&hide=other,binary&hide_border=true&title_color=0366d6&text_color=777777&icon_color=959da5&bg_color=ffffff00"
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=bartoligerman497&langs_count=5&hide=other,binary&hide_border=true&title_color=0366d6&text_color=777777&icon_color=959da5&bg_color=ffffff00&disable_animations=true"
         width="100%"
         height=""
         alt="WakaTimeStats"
@@ -49,7 +49,7 @@
    target="_blank"
    rel="noreferrer">
     <img
-        src="https://github-readme-stats.vercel.app/api?username=bartoligerman497&count_private=true&show_icons=true&hide_border=true&title_color=0366d6&text_color=777777&icon_color=959da5&bg_color=ffffff00"
+        src="https://github-readme-stats.vercel.app/api?username=bartoligerman497&count_private=true&show_icons=true&hide_border=true&title_color=0366d6&text_color=777777&icon_color=959da5&bg_color=ffffff00&disable_animations=true"
         width="100%"
         height=""
         alt="ProfilePoints"
@@ -61,7 +61,7 @@
    target="_blank"
    rel="noreferrer">
     <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=bartoligerman497&hide=Rich+Text+Format&hide_border=true&title_color=0366d6&text_color=777777&icon_color=959da5&bg_color=ffffff00"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=bartoligerman497&hide=Rich+Text+Format&hide_border=true&title_color=0366d6&text_color=777777&icon_color=959da5&bg_color=ffffff00&disable_animations=true"
         width="70%"
         height=""
         alt="Lenguages"
