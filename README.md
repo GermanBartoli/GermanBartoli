@@ -1,4 +1,3 @@
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-5b5b5b?logo=GitHub)](https://bartoligerman497.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5b5b5b?logo=LinkedIn)](https://www.linkedin.com/in/bartoligerman497/)
 [![Platzi](https://img.shields.io/badge/Platzi-10.1K-2ea44f?logo=Platzi)](https://platzi.com/p/bartoligerman497/)
@@ -20,7 +19,6 @@
 <!-- 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC58PRBherNVyIM2AMygoXWQ?label=Channel&style=social)](https://www.youtube.com/@BartoliGerman497)
 -->
-
 <a
     href="https://github.com/bartoligerman497"
     target="_blank"
@@ -30,6 +28,17 @@
         width="100%"
         height=""
         alt="Metrics"
+    />
+</a>
+<a
+    href="https://github.com/bartoligerman497"
+    target="_blank"
+    rel="noreferrer">
+    <img
+        src="https://github.com/bartoligerman497/bartoligerman497/blob/main/metrics.plugin.steam.svg"
+        width="100%"
+        height=""
+        alt="Steam"
     />
 </a>
 <a
