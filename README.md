@@ -24,7 +24,7 @@
     target="_blank"
     rel="noreferrer">
     <img
-        src="https://github.com/bartoligerman497/bartoligerman497/blob/main/github-metrics.svg"
+        src="https://github.com/bartoligerman497/bartoligerman497/blob/main/github-metrics.svg?timestamp=123456789"
         width="100%"
         height=""
         alt="Metrics"
