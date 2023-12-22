@@ -30,19 +30,6 @@
         alt="Metrics"
     />
 </a>
-<!-- 
-<a
-    href="https://github.com/bartoligerman497"
-    target="_blank"
-    rel="noreferrer">
-    <img
-        src="https://github.com/bartoligerman497/bartoligerman497/blob/main/metrics.plugin.steam.svg"
-        width="100%"
-        height=""
-        alt="Steam"
-    />
-</a>
--->
 <a
     href="https://wakatime.com/@bartoligerman497"
     target="_blank"
@@ -76,4 +63,18 @@
         alt="Lenguages"
     />
 </a>
+
+<!-- 
+<a
+    href="https://github.com/bartoligerman497"
+    target="_blank"
+    rel="noreferrer">
+    <img
+        src="https://github.com/bartoligerman497/bartoligerman497/blob/main/metrics.plugin.steam.svg"
+        width="100%"
+        height=""
+        alt="Steam"
+    />
+</a>
+-->
 
