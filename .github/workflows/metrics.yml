@@ -38,7 +38,8 @@ jobs:
           
           # Stats
           # base: ""
-          base: header, metadata
+          # base: header, metadata
+          base: header
           base_hireable: yes
           config_octicon: yes
           config_twemoji: yes
