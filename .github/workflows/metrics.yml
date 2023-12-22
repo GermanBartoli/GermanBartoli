@@ -39,7 +39,7 @@ jobs:
           # Stats
           # base: ""
           # base: header, metadata
-          base: header
+          base: header, repositories
           base_hireable: yes
           config_octicon: yes
           config_twemoji: yes
