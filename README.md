@@ -43,7 +43,6 @@
         alt="WakaTimeStats"
     />
  </a>
-
 <a
    href="https://github.com/bartoligerman497"
    target="_blank"
@@ -55,7 +54,6 @@
         alt="ProfilePoints"
     />
 </a>
-
 <a
    href="https://github.com/bartoligerman497"
    target="_blank"
