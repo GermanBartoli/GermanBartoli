@@ -30,6 +30,7 @@
         alt="Metrics"
     />
 </a>
+<!--
 <a
     href="https://wakatime.com/@bartoligerman497"
     target="_blank"
@@ -64,7 +65,6 @@
     />
 </a>
 
-<!-- 
 <a
     href="https://github.com/bartoligerman497"
     target="_blank"
