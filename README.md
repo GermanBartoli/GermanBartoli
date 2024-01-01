@@ -6,11 +6,11 @@
 [![WakaTime2023](https://img.shields.io/badge/2023-5b5b5b?logo=WakaTime)](https://wakatime.com/a-look-back-at-2023/007a853f-0752-4493-a031-cf70b329845c/helxcyvhfh)
 [![WakaTime2022](https://img.shields.io/badge/2022-5b5b5b?logo=WakaTime)](https://wakatime.com/a-look-back-at-2022/007a853f-0752-4493-a031-cf70b329845c/weohgreyyv)
 [![WakaTimeRank](https://img.shields.io/badge/Rank-5b5b5b?logo=WakaTime)](https://wakatime.com/leaders?username=@bartoligerman497)
-[![CV](https://img.shields.io/badge/CV-5b5b5b?logo=opencv)](https://drive.google.com/file/d/1-4qFJu_2-WOn8hmDspLy20f7YKz9_P5q/view)
-[![CV-LinkedIn](https://img.shields.io/badge/CV-5b5b5b?logo=opencv)](https://drive.google.com/file/d/1ioXbyqviQvLKctMfuoJZdH2HOAAFMhlG/view)
 [![SpeedTest](https://img.shields.io/badge/300mbps-5b5b5b?logo=speedtest)](https://www.speedtest.net/results?sh=96cf9d67e64a716646b1f9c5aaec2fb5)
 
 <!--
+[![CV](https://img.shields.io/badge/CV-5b5b5b?logo=opencv)](https://drive.google.com/file/d/1-4qFJu_2-WOn8hmDspLy20f7YKz9_P5q/view)
+[![CV-LinkedIn](https://img.shields.io/badge/CV-5b5b5b?logo=opencv)](https://drive.google.com/file/d/1ioXbyqviQvLKctMfuoJZdH2HOAAFMhlG/view)
 [![WakaTime](https://wakatime.com/badge/user/007a853f-0752-4493-a031-cf70b329845c.svg)](https://wakatime.com/@007a853f-0752-4493-a031-cf70b329845c)
 [![LiChess](https://img.shields.io/badge/-5b5b5b?logo=lichess)](https://lichess.org/@/Marcoss13)
 [![Chess](https://img.shields.io/badge/-5b5b5b?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAABUFBMVEUAAABhlD9rnEFqm0EMHBtsnUFPejhRfDlQejhOeDhSfTl6r0VomkBwoEJtnUFfjj1lmEB6qEOIskZ0o0JhkD5KczdrnEF+qkRkkz9RezlsnUFtnkFhjz5PeThsnUFsnUFUfzpLdTdsnUFsnUFsnUFPejhOeDhOeDhsnUFsnUFrnEFTfjlOeDhOeDhsnUFuoEJikT5biDxUfzpPeThOeDhOeDhsnUFNdzhsnUFsnUFNdzhOeDhsnUFsnUFOeDhOeDhtnkFsnUFsnUFOeDhOeDhnlz9OeDhMdjdRfDlOeDhOeDhOeDhOeDhNdzhNdzhOdzhOeDhOeDhOeDhOeDhOeDhOeDhOeDhOeDhOeDhOeDhOeDiCrUVvn0JsnUFsnkFkkz9hjz5pmUBnlz9rnEFbiDxWgjtOdzhSfTlOeDhrm0FsnEFPeThVgTpXgztQezn///+x5ZBeAAAAW3RSTlMAAAAAAAAAAAAAAAAORkcPDZvz9J0ORvb3SUz5+k8Uv8IVBFbZ2lgFF8X09McZAx1y/f50HgN2eRzLzR0VoqQWGK/+/rF6fQi7vgkGiN7v9fj179+KByI9TVQj5UB5IgAAAAFiS0dEb1UIYYEAAAAHdElNRQfnARMPMjEPq0MtAAAAAW9yTlQBz6J3mgAAALdJREFUGNNjYAACRiYeXj5+ZhYGGGAVEBQSFhFlQwiIiUfHSEiyIwSkpGPjZGQ5EAJy8rHxCoqccL6SskpsgqqaOkyEVUNTKzFJW0cXLqCnb2BoZGxiitDDapacYs6JxLewjE2xsoaJsLLa2MYmp6bZ2UNFWB0cnWIT0zOcXSCmcnG7ZmYlJ2RnZGS4gZVwunvk5KbmAfkZnl5gAW8fXz//gIDAoOCQULAAp3dYeERkZER4lDdQCwBZFCHjh476BQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMy0wMS0xOVQxNTo1MDozOCswMDowMPTMOdQAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjMtMDEtMTlUMTU6NTA6MzgrMDA6MDCFkYFoAAAAAElFTkSuQmCC)](https://www.chess.com/member/marcoss13)
