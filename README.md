@@ -5,7 +5,7 @@
 [![WakaTime](https://wakatime.com/badge/user/007a853f-0752-4493-a031-cf70b329845c.svg)](https://wakatime.com/@GermanBartoli)
 [![WakaTime2023](https://img.shields.io/badge/2023-5b5b5b?logo=WakaTime)](https://wakatime.com/a-look-back-at-2023/007a853f-0752-4493-a031-cf70b329845c/helxcyvhfh)
 [![WakaTime2022](https://img.shields.io/badge/2022-5b5b5b?logo=WakaTime)](https://wakatime.com/a-look-back-at-2022/007a853f-0752-4493-a031-cf70b329845c/weohgreyyv)
-[![WakaTimeRank](https://img.shields.io/badge/Rank-5b5b5b?logo=WakaTime)](https://wakatime.com/leaders?username=@bartoligerman497)
+[![WakaTimeRank](https://img.shields.io/badge/Rank-5b5b5b?logo=WakaTime)](https://wakatime.com/leaders?username=@GermanBartoli)
 [![SpeedTest](https://img.shields.io/badge/600mbps-5b5b5b?logo=speedtest)](https://www.speedtest.net/results?sh=96cf9d67e64a716646b1f9c5aaec2fb5)
 
 <!--
