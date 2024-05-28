@@ -31,7 +31,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           
           # Options
-          user: GermanBartoli
+          user: bartoligerman497
           config_timezone: America/Buenos_Aires
           template: classic
           # committer_message: "chore: update metrics"
