@@ -8,7 +8,6 @@
 [![WakaTimeRank](https://img.shields.io/badge/Rank-5b5b5b?logo=WakaTime)](https://wakatime.com/leaders?username=@GermanBartoli)
 [![SpeedTest](https://img.shields.io/badge/600mbps-5b5b5b?logo=speedtest)](https://www.speedtest.net/results?sh=96cf9d67e64a716646b1f9c5aaec2fb5)
 
-
 <!--
 [![Platzi](https://img.shields.io/badge/Platzi-2ea44f?logo=Platzi)](https://platzi.com/p/bartoligerman497/)
 
