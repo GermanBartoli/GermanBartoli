@@ -10,7 +10,6 @@
 [![SpeedTest](https://img.shields.io/badge/600mbps-5b5b5b?logo=speedtest)](https://www.speedtest.net/results?sh=96cf9d67e64a716646b1f9c5aaec2fb5)
 
 <!--
-
 [![Platzi](https://img.shields.io/badge/Platzi-2ea44f?logo=Platzi)](https://platzi.com/p/bartoligerman497/)
 
 [![CV](https://img.shields.io/badge/CV-5b5b5b?logo=opencv)](https://drive.google.com/file/d/1-4qFJu_2-WOn8hmDspLy20f7YKz9_P5q/view)
