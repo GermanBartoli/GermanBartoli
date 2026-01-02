@@ -3,6 +3,7 @@
 [![Platzi](https://img.shields.io/badge/Platzi-5b5b5b?logo=Platzi)](https://platzi.com/p/GermanBartoli/)
 [![Steam - Online](https://img.shields.io/badge/Steam-Online-2ea44f?logo=Steam)](https://steamcommunity.com/id/KillerBiss/)
 [![WakaTime](https://wakatime.com/badge/user/007a853f-0752-4493-a031-cf70b329845c.svg)](https://wakatime.com/@GermanBartoli)
+[![WakaTime2025](https://img.shields.io/badge/2024-5b5b5b?logo=WakaTime)](https://wakatime.com/a-look-back-at-2025/007a853f-0752-4493-a031-cf70b329845c/tmaaulgvtg)
 [![WakaTime2024](https://img.shields.io/badge/2024-5b5b5b?logo=WakaTime)](https://wakatime.com/a-look-back-at-2024/007a853f-0752-4493-a031-cf70b329845c/sqvcqmsjvs)
 [![WakaTime2023](https://img.shields.io/badge/2023-5b5b5b?logo=WakaTime)](https://wakatime.com/a-look-back-at-2023/007a853f-0752-4493-a031-cf70b329845c/helxcyvhfh)
 [![WakaTime2022](https://img.shields.io/badge/2022-5b5b5b?logo=WakaTime)](https://wakatime.com/a-look-back-at-2022/007a853f-0752-4493-a031-cf70b329845c/weohgreyyv)
