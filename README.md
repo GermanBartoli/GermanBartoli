@@ -1,23 +1,3 @@
-# Germán Bartoli · Desarrollo de software
-
-**Proyectos personales, herramientas y aprendizaje continuo. Este repositorio contiene la presentación que GitHub muestra en mi perfil.**
-
-[![Repositorio](https://img.shields.io/badge/GitHub-GermanBartoli-181717?logo=github)](https://github.com/GermanBartoli/GermanBartoli)
-
-[Empezar](#primeros-pasos) · [Mapa del repositorio](#mapa-del-repositorio) · [Autoría](#autoría-de-esta-documentación)
-
-![Guía visual: Germán Bartoli · Desarrollo de software](docs/readme/guia.svg)
-
-*Esquema de orientación; no representa una captura de la aplicación.*
-
-## Primeros pasos
-
-1. Visitá [mi portfolio](https://germanbartoli.pages.dev/) para explorar proyectos y demostraciones.
-2. Encontrá herramientas como [Trello Focus](https://github.com/GermanBartoli/trello-focus), [OBS Recording Beep](https://github.com/GermanBartoli/obs-recording-beep) y [GalleryPRO](https://github.com/GermanBartoli/gallerypro).
-3. La presentación y los enlaces personales se conservan debajo; las métricas se generan mediante el flujo de `.github/workflows/metrics.yml`.
-
-## Referencia y detalles
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-5b5b5b?logo=GitHub)](https://germanbartoli.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5b5b5b?logo=LinkedIn)](https://www.linkedin.com/in/germanbartoli/)
 [![Platzi](https://img.shields.io/badge/Platzi-5b5b5b?logo=Platzi)](https://platzi.com/p/GermanBartoli/)
@@ -30,8 +10,10 @@
 [![WakaTimeRank](https://img.shields.io/badge/Rank-5b5b5b?logo=WakaTime)](https://wakatime.com/leaders?username=@GermanBartoli)
 [![SpeedTest](https://img.shields.io/badge/600mbps-5b5b5b?logo=speedtest)](https://www.speedtest.net/results?sh=96cf9d67e64a716646b1f9c5aaec2fb5)
 
+
 <!--
 [![Platzi](https://img.shields.io/badge/Platzi-2ea44f?logo=Platzi)](https://platzi.com/p/bartoligerman497/)
+
 
 [![CV](https://img.shields.io/badge/CV-5b5b5b?logo=opencv)](https://drive.google.com/file/d/1-4qFJu_2-WOn8hmDspLy20f7YKz9_P5q/view)
 [![CV-LinkedIn](https://img.shields.io/badge/CV-5b5b5b?logo=opencv)](https://drive.google.com/file/d/1ioXbyqviQvLKctMfuoJZdH2HOAAFMhlG/view)
@@ -51,7 +33,7 @@
     target="_blank"
     rel="noreferrer">
     <img
-        src="github-metrics.svg"
+        src="https://github.com/bartoligerman497/bartoligerman497/blob/main/github-metrics.svg"
         width="100%"
         height=""
         alt="Metrics"
@@ -97,7 +79,7 @@
     target="_blank"
     rel="noreferrer">
     <img
-        src="metrics.plugin.steam.svg"
+        src="https://github.com/bartoligerman497/bartoligerman497/blob/main/metrics.plugin.steam.svg"
         width="100%"
         height=""
         alt="Steam"
@@ -112,13 +94,3 @@
 <!--
 <img align="center" src="https://wakatime.com/share/@bartoligerman497/completar aca.svg" alt="bartoligerman497" />
 -->
-
-## Mapa del repositorio
-
-La rama contiene documentación. No hay una aplicación para instalar.
-
-## Autoría de esta documentación
-
-Repositorio mantenido por [Germán Bartoli](https://github.com/GermanBartoli). Guía revisada y actualizada con **Codex**, coautor de esta actualización documental. Los autores, colaboradores, licencias y recursos de terceros conservan sus créditos originales.
-
-Los commits de esta revisión incluyen `Co-authored-by: Codex <noreply@openai.com>`; esta atribución no modifica la autoría del historial anterior.
