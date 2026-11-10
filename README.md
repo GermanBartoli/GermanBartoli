@@ -34,8 +34,7 @@
     rel="noreferrer">
     <img
         src="https://github.com/bartoligerman497/bartoligerman497/blob/main/github-metrics.svg"
-        width="100%"
-        height=""
+        width="480"
         alt="Metrics"
     />
 </a>
