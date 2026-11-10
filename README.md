@@ -93,11 +93,3 @@
 <!--
 <img align="center" src="https://wakatime.com/share/@bartoligerman497/completar aca.svg" alt="bartoligerman497" />
 -->
-
-<!-- firma-german-bartoli -->
-<p align="center">
-  <a href="https://germanbartoli.pages.dev/">
-    <img src="docs/autor/german-bartoli.webp" alt="German Bartoli — Developer" width="96" height="96" /><br />
-    Hecho por Germán Bartoli · Ver portfolio
-  </a>
-</p>
